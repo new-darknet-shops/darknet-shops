@@ -80,3 +80,5 @@ Check onion addresses.
 Darknet shops offer a setting for private transactions. Use security.
 
 Please contribute and add stars to this repo.
+
+Update:  11 June
